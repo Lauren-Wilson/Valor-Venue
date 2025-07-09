@@ -1,4 +1,4 @@
-#!/Users/coolkid/Desktop/Projects/repos/Valor-Venue/development/streamlit_test_env/bin/python3
+#!/Users/coolkid/Desktop/streamlit_env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
