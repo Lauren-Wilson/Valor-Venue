@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Local configuration file for Python projects
+# This file is used to store sensitive information such as API keys, database URLs, etc.
+secrets.toml
